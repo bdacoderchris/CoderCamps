@@ -1,9 +1,0 @@
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\bin\QuizApp.dll.config
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\bin\QuizApp.dll
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\bin\QuizApp.pdb
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\bin\QuizApp.xml
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\obj\Debug\QuizApp.Resources.resources
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\obj\Debug\QuizApp.vbproj.GenerateResource.Cache
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\obj\Debug\QuizApp.dll
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\obj\Debug\QuizApp.xml
-c:\users\christopher\documents\visual studio 2013\Projects\QuizApp\QuizApp\obj\Debug\QuizApp.pdb

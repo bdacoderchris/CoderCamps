@@ -1,0 +1,22 @@
+﻿<div>
+    <button ng-click="showContacts()" value="show">Show</button>
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Phone Number</th>
+                <th>Email Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="contact in ContactFactory.myContacts">
+                <td><a href="#" ng-click="updateContact($index)">{{contact.name}}</a></td>
+                <td><a href="#" ng-click="updateContact($index)">{{contact.address}}</a></td>
+                <td><a href="#" ng-click="updateContact($index)">{{contact.phone}}</a></td>
+                <td><a href="#" ng-click="updateContact($index)">{{contact.email}}</a></td>
+                <td><input type="button" class="btn btn-default" ng-click="deleteContact($index);" value="Delete" /></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

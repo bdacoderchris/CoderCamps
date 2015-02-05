@@ -1,0 +1,49 @@
+﻿<div ng-controller="EditController">
+    {{pageName}}
+    <div class="modal fade" id="myModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Edit Your Contact</h4>
+                </div>
+                <div class="modal-body">
+                    <div><input type="text" placeholder="New Name" ng-model="modelName" /> </div>
+                    <div><input type="text" placeholder="New Address" ng-model="modelAddress" /> </div>
+                    <div><input type="text" placeholder="New Phone Number" ng-model="modelPhone" /> </div>
+                    <div><input type="text" placeholder="New Email Address" ng-model="modelEmail" /> </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary" ng-click="editContacts($index)">Save changes</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Phone Number</th>
+                <th>Email Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="contact in showArray">
+                <td>{{contact.name}}</td>
+                <td>{{contact.address}}</td>
+                <td>{{contact.phone}}</td>
+                <td>{{contact.email}}</td>
+                <td>
+                    <input type="button" ng-click="editClick($index);" data-toggle="modal" data-target="#myModal" class="btn btn-default" value="Edit" />
+                </td>
+                <!-- <td><input type="button" class="btn btn-default" value="Edit" data-toggle="modal" data-target="#myModal"  /></td> -->
+                <td><input type="button" class="btn btn-danger" ng-click="deleteContact($index);" value="Delete" /></td>
+                
+            </tr>
+        </tbody>
+    </table>
+</div>
+

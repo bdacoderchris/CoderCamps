@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Contact List</title>
+
+    <script src="Scripts/angular.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/angular-route.js"></script>
+    <script src="app/app.js"></script>
+    <script src="app/services/ContactFactory.js"></script>
+    <script src="app/controllers/AddController.js"></script>
+    <script src="app/controllers/EditController.js"></script>
+    <script src="app/controllers/HomeController.js"></script>
+    <script src="app/controllers/ShowController.js"></script>
+
+    <style>
+        .nav-bar {
+             background-color: ButtonShadow
+        }
+    </style>
+    
+</head>
+<body ng-app="myApp">
+    <nav class="nav-bar">
+        <a href="#/" class="home-button btn btn-primary">Home</a>
+        <a href="#/AddContacts" class="add-button btn btn-default">Add Contacts</a>
+        <a href="#/ShowContacts" class="show-button btn btn-default">Show Contacts</a>
+        <a href="#/EditContacts" class="edit-button btn btn-success">Edit Contacts</a>
+    </nav>
+    <div ng-view=""></div>
+
+
+
+    <script src="Scripts/jquery-2.1.3.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    
+</body>
+</html>

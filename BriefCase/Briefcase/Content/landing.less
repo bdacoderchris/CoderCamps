@@ -1,0 +1,132 @@
+﻿@import 'style.less';
+
+
+#landing-page {
+    background: url('http://bedroomkitchen.com/wp-content/uploads/2014/06/Home-Office-desk-247.jpg') no-repeat center center fixed;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    width: 100%;
+
+    .form-signin {
+        max-width: 330px;
+        padding: 15px;
+        margin: 0 auto;
+    }
+
+    .modal-content {
+        border-radius: 0;
+    }
+
+    .btn-primary {
+        background-color: rgba(255, 255, 255, 0) !important;
+        color: rgb(156, 165, 188);
+        border-color: rgb(156,165,188);
+
+        &:hover {
+            background-color: rgb(156,165,188) !important;
+            border-color: rgb(133, 133, 135);
+            color: white;
+        }
+    }
+
+    .content-overlay {
+        background-color: rgba(0,0,40,.7);
+        position: relative;
+        top: 0;
+        min-height: 100vh;
+
+        .content {
+            margin: 0 auto;
+            display: block;
+            float: none;
+
+            .content-title {
+                margin-top: 55px;
+                width: 100%;
+
+                i {
+                    color: white;
+                }
+
+                h1 {
+                    color: white;
+                    text-transform: lowercase;
+                }
+            }
+
+            .content-body {
+                margin: 0 auto;
+                max-width: 500px;
+                height: 300px;
+                position: relative;
+
+                h3 {
+                    text-align: center;
+                    color: white;
+                    margin: 20px 0;
+                    font-weight: 300;
+                }
+            }
+        }
+
+        footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            margin: 0 auto;
+
+            p {
+                text-align: center;
+            }
+        }
+    }
+}
+
+.btn-trans {
+    border: 1px solid white;
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    -moz-transition: background-color .3s ease-in-out;
+    -o-transition: background-color .3s ease-in-out;
+    -webkit-transition: background-color .3s ease-in-out;
+    transition: background-color .3s ease-in-out;
+
+    &:hover {
+        background-color: ActiveCaption;
+    }
+}
+
+a {
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+#sidebar {
+    background-color: rba(0,0,0,0) !important;
+    height: 100%;
+    color: white;
+}
+
+#main-content {
+    background-color: #dedede;
+    min-height: 100vh !important;
+}
+
+.card:hover {
+    box-shadow: -4px 2px 2px #a1a1a1;
+}
+
+.navbar .navbar-nav li a {
+    color: white !important;
+}
+
+#load-more-icon {
+    cursor: pointer;
+}

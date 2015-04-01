@@ -1,0 +1,7 @@
+﻿a[ng-click]{
+    cursor: pointer;
+}
+
+.save-alert {
+    position: fixed;
+}

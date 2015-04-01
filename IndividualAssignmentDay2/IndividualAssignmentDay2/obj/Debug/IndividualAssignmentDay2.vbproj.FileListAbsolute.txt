@@ -1,9 +1,0 @@
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\bin\IndividualAssignmentDay2.dll.config
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\bin\IndividualAssignmentDay2.dll
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\bin\IndividualAssignmentDay2.pdb
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\bin\IndividualAssignmentDay2.xml
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\obj\Debug\IndividualAssignmentDay2.Resources.resources
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\obj\Debug\IndividualAssignmentDay2.vbproj.GenerateResource.Cache
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\obj\Debug\IndividualAssignmentDay2.dll
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\obj\Debug\IndividualAssignmentDay2.xml
-c:\users\christopher\documents\visual studio 2013\Projects\IndividualAssignmentDay2\IndividualAssignmentDay2\obj\Debug\IndividualAssignmentDay2.pdb

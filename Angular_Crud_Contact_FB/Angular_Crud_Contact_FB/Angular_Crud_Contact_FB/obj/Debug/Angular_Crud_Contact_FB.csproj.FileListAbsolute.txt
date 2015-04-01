@@ -1,6 +1,0 @@
-c:\users\christopher\documents\visual studio 2013\Projects\Angular_Crud_Contact_FB\Angular_Crud_Contact_FB\bin\Angular_Crud_Contact_FB.dll.config
-c:\users\christopher\documents\visual studio 2013\Projects\Angular_Crud_Contact_FB\Angular_Crud_Contact_FB\bin\Angular_Crud_Contact_FB.dll
-c:\users\christopher\documents\visual studio 2013\Projects\Angular_Crud_Contact_FB\Angular_Crud_Contact_FB\bin\Angular_Crud_Contact_FB.pdb
-c:\users\christopher\documents\visual studio 2013\Projects\Angular_Crud_Contact_FB\Angular_Crud_Contact_FB\obj\Debug\Angular_Crud_Contact_FB.csprojResolveAssemblyReference.cache
-c:\users\christopher\documents\visual studio 2013\Projects\Angular_Crud_Contact_FB\Angular_Crud_Contact_FB\obj\Debug\Angular_Crud_Contact_FB.dll
-c:\users\christopher\documents\visual studio 2013\Projects\Angular_Crud_Contact_FB\Angular_Crud_Contact_FB\obj\Debug\Angular_Crud_Contact_FB.pdb

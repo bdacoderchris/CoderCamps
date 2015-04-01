@@ -1,9 +1,0 @@
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\bin\SuperHeroContact.dll.config
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\bin\SuperHeroContact.dll
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\bin\SuperHeroContact.pdb
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\bin\SuperHeroContact.xml
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\obj\Debug\SuperHeroContact.Resources.resources
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\obj\Debug\SuperHeroContact.vbproj.GenerateResource.Cache
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\obj\Debug\SuperHeroContact.dll
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\obj\Debug\SuperHeroContact.xml
-c:\users\christopher\documents\visual studio 2013\Projects\SuperHeroContact\SuperHeroContact\obj\Debug\SuperHeroContact.pdb

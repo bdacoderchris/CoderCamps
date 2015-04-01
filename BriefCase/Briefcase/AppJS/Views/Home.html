@@ -1,0 +1,22 @@
+﻿<div class="portfolio-wrapper">
+    <h2>My saved jobs</h2>
+    <hr style="width: 25%; margin-left: 0; margin-top: 0;"/>
+    <div class="card film art animated flipInY" ng-repeat="job in userInfo.Jobs | orderBy:'-JobId'">
+        <a href="portfolio-item.html" class="thumb">
+
+            <span class="overlay"><span class="fa fa-search"></span></span>
+        </a>
+        <div class="card-body">
+            <button ng-click="getSingleJob(job.JobKey); backendGetJob(job.JobId)" style="font-size: 20px; background: transparent!important; border: none; padding: 0!important; outline:none;">{{job.Title}}</button>
+            <h5>{{job.Company}}</h5>
+            <h6>{{job.Location}}</h6>
+        </div><!-- end card-body -->
+        <div class="card-footer">
+            <ul class="list-inline filters">
+                <!--<li><a href="#none" data-toggle="modal" data-target="#JobDetailModal" ng-click="getSingleJob(job.JobKey)"><span class="fa fa-info"></span></a></li>-->
+                <li><button style="background: none; border: none; outline:none;" ng-click="deleteJob(job.JobId)"><span class="fa fa-trash-o"></span></button></li>
+                <!--<li><a href=""><span class="fa fa-trash-o" ng-click="deleteJob(job.JobId)"></span></a></li>-->
+            </ul>
+        </div><!-- end card-footer -->
+    </div>
+</div>

@@ -11,16 +11,26 @@
     <script src="app/controllers/AddController.js"></script>
     <script src="app/controllers/EditController.js"></script>
     <script src="app/controllers/HomeController.js"></script>
-    <script src="app/controllers/ShowController.js"></script>>
+    <script src="app/controllers/ShowController.js"></script>
+
+    <style>
+        .nav-bar {
+             background-color: ButtonShadow
+        }
+        .body {
+            background-color: ActiveCaption
+        }
+        
+    </style>
     
 </head>
-<body ng-app="myApp">
-
-    <a href="#/">Home</a>
-    <a href="#/AddContacts">Add Contacts</a>
-    <a href="#/ShowContacts" ng-click="showContacts()">Show Contacts</a>
-    <a href="#/EditContacts">Edit Contacts</a>
-
+<body ng-app="myApp" class="body">
+    <nav class="nav-bar">
+        <a href="#/" class="home-button btn btn-primary">Home</a>
+        <a href="#/AddContacts" class="add-button btn btn-default">Add Contacts</a>
+        <a href="#/ShowContacts" class="show-button btn btn-default">Show Contacts</a>
+        <a href="#/EditContacts" class="edit-button btn btn-success">Edit Contacts</a>
+    </nav>
     <div ng-view=""></div>
 
 

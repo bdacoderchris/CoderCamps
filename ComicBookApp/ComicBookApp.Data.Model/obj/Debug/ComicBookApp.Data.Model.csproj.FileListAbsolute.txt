@@ -1,0 +1,10 @@
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\bin\Debug\ComicBookApp.Data.Model.dll.config
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\bin\Debug\ComicBookApp.Data.Model.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\bin\Debug\ComicBookApp.Data.Model.pdb
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\bin\Debug\EntityFramework.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\bin\Debug\EntityFramework.xml
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\obj\Debug\ComicBookApp.Data.Model.csprojResolveAssemblyReference.cache
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\obj\Debug\ComicBookApp.Data.Model.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data.Model\obj\Debug\ComicBookApp.Data.Model.pdb

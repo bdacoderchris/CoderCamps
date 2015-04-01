@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicBookApp", "ComicBookApp\ComicBookApp.csproj", "{8E0AD624-A538-4109-AE0F-9A8774342B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicBookApp.Data", "ComicBookApp.Data\ComicBookApp.Data.csproj", "{9C30F9F4-E85D-40AF-9FBE-B44587D37087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicBookApp.Data.Model", "ComicBookApp.Data.Model\ComicBookApp.Data.Model.csproj", "{E27ACD66-B314-4F95-818B-C99BA987415F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0AD624-A538-4109-AE0F-9A8774342B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0AD624-A538-4109-AE0F-9A8774342B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0AD624-A538-4109-AE0F-9A8774342B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0AD624-A538-4109-AE0F-9A8774342B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C30F9F4-E85D-40AF-9FBE-B44587D37087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C30F9F4-E85D-40AF-9FBE-B44587D37087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C30F9F4-E85D-40AF-9FBE-B44587D37087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C30F9F4-E85D-40AF-9FBE-B44587D37087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27ACD66-B314-4F95-818B-C99BA987415F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27ACD66-B314-4F95-818B-C99BA987415F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27ACD66-B314-4F95-818B-C99BA987415F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27ACD66-B314-4F95-818B-C99BA987415F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

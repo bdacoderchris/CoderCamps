@@ -1,0 +1,36 @@
+﻿@model ComicBookApp.Models.IndexViewModel
+
+@{
+    //ViewBag.Title = "Home Page";
+}
+
+<h1>@Model.PageName</h1>
+
+<p>@Html.ActionLink("Add A Comic", "Create")</p>
+
+<table class="table table-striped table-striped">
+    <thead>
+        <tr>
+            <th>Comic Title</th>
+            <th>Author</th>
+            <th>Cover</th>
+            <th>Edit Comic</th>
+            @*<th>Studio</th>*@
+        </tr>
+    </thead>
+
+    @foreach (var item in Model.Comics)
+    {
+        <tbody>
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Author</td>
+                <td><img src="@item.Cover" style="height:100px; width:80px;"/></td>
+                <td>@Html.ActionLink("Edit", "Update", new { id = item.ComicId}) |
+                @Html.ActionLink("Details", "Details", new { id = item.ComicId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ComicId })</td>
+                @*<td>@item.Studio.Name</td>*@
+            </tr>
+        </tbody>
+    }
+</table>

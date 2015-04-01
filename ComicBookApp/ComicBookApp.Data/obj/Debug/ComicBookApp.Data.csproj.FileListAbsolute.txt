@@ -1,0 +1,14 @@
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\ComicBookApp.Data.dll.config
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\ComicBookApp.Data.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\ComicBookApp.Data.pdb
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\ComicBookApp.Data.Model.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\EntityFramework.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\ComicBookApp.Data.Model.pdb
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\EntityFramework.xml
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\obj\Debug\ComicBookApp.Data.csprojResolveAssemblyReference.cache
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\obj\Debug\ComicBookApp.Data.dll
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\obj\Debug\ComicBookApp.Data.pdb
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\obj\Debug\ComicBookApp.Data.Migrations.COMICBOOKAPP.resources
+c:\users\christopher\documents\visual studio 2013\Projects\ComicBookApp\ComicBookApp.Data\obj\Debug\ComicBookApp.Data.csproj.GenerateResource.Cache
